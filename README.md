@@ -1,2 +1,2 @@
 # Capstone-cryptoart
-repository with code for capstone about cryptoart
+repository with a notebook for my capstone about cryptoart
